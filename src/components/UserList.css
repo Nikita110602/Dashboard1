@@ -1,0 +1,78 @@
+
+.user-list-container {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  .manage-page button{
+    margin: 10px;
+
+  }
+ 
+
+
+.search-container {
+    margin-bottom: 20px;
+    color: #230338;
+  }
+  .search-container h1 {
+    color:#367E18;
+  }
+
+  .search-input {
+    padding: 8px;
+    width: 200px;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: #BCE29E;
+    border-color: #557C55;
+    color: #557C55;
+
+  }
+  
+  .manage-page button {
+    padding: 8px;
+    width: 200px;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: #BCE29E;
+    border-color: #557C55;
+    color: #367E18;
+
+  }
+  
+ 
+  
+  .delete {
+    padding: 8px;
+    width: 200px;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: #BCE29E;
+    border-color: #557C55;
+    color: #557C55;
+
+  }
+  .tri {
+    color: #367E18;
+  }
+  
+  

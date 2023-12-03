@@ -1,0 +1,25 @@
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+
+.user-list-container {
+  margin-top: 20px;
+}
+
+
+.user-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.user-item-checkbox {
+  margin-right: 10px;
+}
+
+.user-item-edit-btn {
+  margin-left: 10px;
+}
